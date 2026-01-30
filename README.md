@@ -21,4 +21,3 @@
 
 Thus,The Measurement of Numerical aperture of the fiber is calculated and output is verified.
 
-
